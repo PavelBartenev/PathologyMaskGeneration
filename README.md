@@ -44,19 +44,19 @@ Our idea was consist at three main points(figure 3):
 3. Additional conditioning on grey/white matter maps can be done.
 
 <kbd align="center">
-  <img src= "images/4.jpg"  width="600" height="600"/>
+  <img src= "images/4.png"  width="600" height="600"/>
 </kbd>
 Figure 1. Arcitecture of proposed method
 
 
 <kbd align="center">
-  <img src= "images/6.jpg"  width="600" height="600"/>
+  <img src= "images/6.png"  width="600" height="600"/>
 </kbd>
 
 Figure 2. Generated mask a)Not good example
 
 <kbd align="center">
-  <img src= "images/7.jpg"  width="600" height="600"/>
+  <img src= "images/7.png"  width="600" height="600"/>
 </kbd>
 
 Figure 3. Generated mask b)Good example
@@ -66,7 +66,7 @@ Further work consisted in the fact that the generated masks were used to create 
 Metrics 3DUnet
 
 <kbd align="center">
-  <img src= "images/9.jpg"  width="600" height="600"/>
+  <img src= "images/9.png"  width="600" height="600"/>
 </kbd>
 
 Figure 4. Gaphical imaging of training and validation
@@ -76,7 +76,7 @@ Figure 4. Gaphical imaging of training and validation
 To further enhance the quality of pathology mask generation, we propose training a conditional Generative Adversarial Network (figure 5) where the discriminator takes the masked brain images as input. This approach helps to avoid the issue of differences between healthy and pathological MRI scans. The generator will be trained to create plausible pathology masks, while the discriminator will distinguish between generated and real masks based on the masked brain images. By having the discriminator focus solely on the masked brain areas, the model can concentrate on the pathological regions, disregarding variations in healthy tissue, thereby reducing the likelihood of generating false pathologies.
 
 <kbd align="center">
-  <img src= "images/10.jpg"  width="600" height="600"/>
+  <img src= "images/10.png"  width="600" height="600"/>
 </kbd>
 
 Figure 5. Arcitecture of proposed method
@@ -84,7 +84,7 @@ Figure 5. Arcitecture of proposed method
 Result
 
 <kbd align="center">
-  <img src= "images/11.jpg"  width="600" height="600"/>
+  <img src= "images/11.png"  width="600" height="600"/>
 </kbd>
 
 Figure 6. The generated mask with cGAN
