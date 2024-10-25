@@ -81,12 +81,6 @@ To further enhance the quality of pathology mask generation, we propose training
 
 Figure 5. cGAN architecture
 
-Result
-
-<kbd align="center">
-  <img src= "images/11.png"  width="600" height="600"/>
-</kbd>
-
 Figure 6. The generated mask with cGAN
 
 
