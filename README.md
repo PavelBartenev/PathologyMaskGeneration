@@ -81,8 +81,5 @@ To further enhance the quality of pathology mask generation, we propose training
 
 Figure 5. cGAN architecture
 
-Figure 6. The generated mask with cGAN
-
-
 ## Running
 Requirements are provided in requirements.txt. Code is provided in notebooks. Do not hesitate to contact me on the data.
