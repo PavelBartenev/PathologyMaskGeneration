@@ -92,16 +92,3 @@ Figure 6. The generated mask with cGAN
 
 ## Running
 Requirements are provided in requirements.txt. Code is provided in notebooks. Do not hesitate to contact me on the data.
-## Setup and Installation
-
-
-Songping He, Yi Zou, Bin Li, Fangyu Peng, Xia Lu, Hui Guo, Xin Tan, Yanyan CGaillard F, Sriselvakumar S, Walizai T, et al. Focal cortical dysplasia. Reference article, Radiopaedia.org (Accessed on 25 Oct 2024) https://doi.org/10.53347/rID-10164
-
-Songping He, Yi Zou, Bin Li, Fangyu Peng, Xia Lu, Hui Guo, Xin Tan, Yanyan Chen "An image inpainting-based data augmentation method for improved sclerosed glomerular identification performance with the segmentation model EfficientNetB3-Unet", in Scientifc Reports | 10 January 2024, https://www.nature.com/articles/s41598-024-51651-1
-
-Jiayu Huo, Vejay Vakharia, Chengyuan Wu, Ashwini Sharan, Andrew Ko, Sébastien Ourselin, and Rachel Sparks "Brain Lesion Synthesis via Progressive Adversarial Variational Auto-Encoder", arXiv:2208.03203v1 [cs.CV] 5 Aug 2022
-
-## Repo structure
-
-
-Files/ : Contains results video and graphics pictures
