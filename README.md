@@ -25,6 +25,9 @@ Final Presentation:
 Experiments on CometML:
 [https://www.comet.com/pavelbartenev/mask-generation/view/new/panels]
 
+Written report:
+[https://drive.google.com/file/d/1dBj8TFBI6TfhTSfKFCvypjQPdOLsCooS/view?usp=sharing]
+
 ## Table of Contents
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
