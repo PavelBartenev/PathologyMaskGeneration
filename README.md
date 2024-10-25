@@ -22,6 +22,9 @@ In this project we build a model which is capable of generating plausible masks 
 Final Presentation: 
 [https://docs.google.com/presentation/d/11YScv6lkddbgGMLpUko1wnVR8KmUoLKQpjoZOcd495k/edit#slide=id.p]
 
+Experiments on CometML:
+[https://www.comet.com/pavelbartenev/mask-generation/view/new/panels]
+
 ## Table of Contents
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
